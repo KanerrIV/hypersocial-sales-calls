@@ -12,7 +12,7 @@ The sales call is **consultative and conversational** — never pitchy. The rep'
 
 ---
 
-## Stage 1 — Rapport & Small Talk (0–3 min)
+## Stage 1 — Rapport & Small Talk *(0–3 min)*
 
 **Goal:** Lower guard, establish human connection before any business talk.
 
@@ -30,7 +30,7 @@ The sales call is **consultative and conversational** — never pitchy. The rep'
 
 ---
 
-## Stage 2 — Discovery Opening (3–8 min)
+## Stage 2 — Discovery Opening *(3–8 min)*
 
 **Goal:** Understand why they're on the call and what's not working. Let them talk.
 
@@ -73,11 +73,11 @@ Once they've explained their situation, dig deeper with:
 - *"Tell me about your average customer."*
 - *"Are you thinking of building locally, nationally, or both?"*
 
-**Listen for multiple ICPs.** Trent had Vistage + advisory. Blair had TAB boards + StratPro. Carlos had direct clients + referral partners. This matters for how you structure the campaigns later.
+> **Listen for multiple ICPs.** Trent had Vistage + advisory. Blair had TAB boards + StratPro. Carlos had direct clients + referral partners. This matters for how you structure the campaigns later.
 
 ---
 
-## Stage 3 — Transition & Credibility Bridge (8–12 min)
+## Stage 3 — Transition & Credibility Bridge *(8–12 min)*
 
 **Goal:** Connect their pain to your solution without launching into a full pitch. Establish that you understand their world.
 
@@ -105,7 +105,7 @@ This shows you were listening and makes the prospect feel understood before you 
 
 ---
 
-## Stage 4 — The Pitch (12–25 min)
+## Stage 4 — The Pitch *(12–25 min)*
 
 **Goal:** Walk through the system clearly. Answer questions as they come. Don't rush.
 
@@ -132,48 +132,50 @@ Present in this order — every rep used roughly the same sequence:
 - Video feature built in — record once, prospect's profile populates behind it
 
 **3. The Numbers**
-Present the funnel clearly:
-- 200 connection requests/week → ~800–1,000/month
-- 30% connection rate → ~300 new connections/month
-- 30% response rate on connected → ~90–100 replies/month
-- Average result: **3–6 appointments per week** (some reps say 4–6, some say 18–20/month — keep consistent)
-- Cost per lead after build: ~$200/month recurring
+
+| Step | Number |
+|------|--------|
+| Connection requests/week | 200 |
+| Monthly requests | ~800–1,000 |
+| Connection rate (30%) | ~300 new connections/month |
+| Response rate (30%) | ~90–100 replies/month |
+| Avg. appointments/week | 3–6 |
+
+Cost per lead after build: ~$200/month recurring
 
 **4. End-of-Build Options**
-- Option A: Hand it off — they run it themselves ($99/month software + Sales Navigator)
-- Option B: HyperSocial manages it — $500–$2,000/month depending on scope
-  - $500 = just outbound campaigns
+- Option A: They run it themselves → $99/month software + Sales Navigator
+- Option B: HyperSocial manages it → $500–$2,000/month depending on scope
+  - $500 = outbound only
   - ~$1,000 = outbound + inbox management
   - $1,997 = full management (outbound, inbox replies, content posting, lead tracking)
 - About 50% choose to manage themselves, 50% hand it back
 
 ### Key Talking Points to Hit
 
-**On why LinkedIn beats cold email:**
-*"Cold email is I have to get your attention now or never. There's no personality behind it. On LinkedIn you can showcase your work and results on your actual profile — when you do outreach, people go view your profile and see all that social proof."*
+**LinkedIn vs. cold email:**
+> *"Cold email is I have to get your attention now or never. There's no personality behind it. On LinkedIn you can showcase your work and results on your actual profile — when you do outreach, people go view your profile and see all that social proof."*
 
-**On blank vs. message connection requests:**
-*"About 10–15% higher connection rate with no custom message. When there's no message, they don't know why you're connecting — they think, did I meet him somewhere? And they accept just to figure it out."*
+**Blank vs. message connection requests:**
+> *"About 10–15% higher connection rate with no custom message. When there's no message, they don't know why you're connecting — they think, did I meet him somewhere? And they accept just to figure it out."*
 
-**On human-written messaging:**
-*"LinkedIn messaging is so hard compared to every other type of writing. We've hired and fired so many copywriters who are great at website copy or cold email — getting them to write for LinkedIn is very difficult. We don't use AI for messaging."*
+**Human-written messaging:**
+> *"LinkedIn messaging is so hard compared to every other type of writing. We've hired and fired so many copywriters who are great at website copy or cold email — getting them to write for LinkedIn is very difficult. We don't use AI for messaging."*
 
-**On content posting:**
-*"Three posts per week is optimal. We've tested one all the way up to seven — three gets the most reach. LinkedIn posts have the longest shelf life of any social platform. Posting too much can actually hurt the previous post that was doing well."*
+**Content posting:**
+> *"Three posts per week is optimal. We've tested one all the way up to seven — three gets the most reach. LinkedIn posts have the longest shelf life of any social platform. Posting too much can actually hurt the previous post that was doing well."*
 
-**On Sales Navigator:**
-*"LinkedIn lets you do more connection requests and follow-up messages per day when you're paying — they see you're a paying customer and give you more freedom. Also the filters are incredible — years in business, headcount changes, new in their role, industry, location down to a mile radius of a zip code."*
+**Sales Navigator:**
+> *"LinkedIn lets you do more connection requests and follow-up messages per day when you're paying — they see you're a paying customer and give you more freedom. Also the filters are incredible — years in business, headcount changes, new in their role, industry, location down to a mile radius of a zip code."*
 
-**On webinars/events (for relationship-based businesses):**
-*"You can invite 1,000 first-degree connections to a LinkedIn event every week. Connect it to a webinar platform, spend one hour with people you couldn't get attention from the first time. Give value at the end, offer a call — it's a completely different way to use LinkedIn that most people don't utilize."*
+**Webinars/events (relationship-based businesses):**
+> *"You can invite 1,000 first-degree connections to a LinkedIn event every week. Connect it to a webinar platform, spend one hour with people you couldn't get attention from the first time. Give value at the end, offer a call — it's a completely different way to use LinkedIn that most people don't utilize."*
 
 ---
 
-## Stage 5 — Handling Questions & Objections (ongoing)
+## Stage 5 — Handling Questions & Objections *(ongoing)*
 
 **Goal:** Answer every question thoroughly. Don't deflect. Questions are buying signals.
-
-### Common Questions and How They Were Handled
 
 **"How do you separate my different ICPs / campaigns?"**
 Run simultaneous campaigns, split the 200 weekly requests however makes sense. Blacklist feature prevents reaching out to existing clients, members, or people you want to exclude. Optional approval step on follow-up messages for people you sort of know locally.
@@ -191,7 +193,7 @@ About one hour per week during the 30-day build — all one-on-one with your acc
 No — all human-written. AI is used to help train a content voice for posts, not for outreach messaging.
 
 **"What if the rep assigned to me is new?"**
-*(Blair's objection)* Liz acknowledged it directly, explained Brittany's background, and then offered to escalate to Emily (COO) for the welcome call. Don't deflect a legitimate concern — address it and offer a solution.
+*(Blair's objection)* Acknowledge it directly, explain the rep's background, and offer to escalate to Emily (COO) for the welcome call. Don't deflect a legitimate concern — address it and offer a solution.
 
 **"Can I do a payment plan?"**
 Yes — the $2,500 can be split into two or three payments. *"I don't want cash constraints to be an issue and I don't want to tie up their cash if they don't want to."*
@@ -201,43 +203,41 @@ No additional setup fee — once the system is built, they can build as many cam
 
 ---
 
-## Stage 6 — Pricing (25–35 min)
+## Stage 6 — Pricing *(25–35 min)*
 
 **Goal:** Present price confidently. Don't lead with it, but don't hide from it either.
 
 ### The Pricing Reveal
 
-Braden's approach on multiple calls:
-*"Just a one-time fee of $2,500."* — stated flat, with no apology, followed immediately by silence or a pivot to what they get.
+**Braden's approach** — flat and confident:
+> *"Just a one-time fee of $2,500."* — stated with no apology, followed immediately by silence or a pivot to what they get.
 
-Liz's approach:
-*"Our usual price is $4,500 for the entire build. Right now we're running it at a special price of $2,500 — that's a one-time fee."* — anchors against the higher number first.
+**Liz's approach** — anchor high first:
+> *"Our usual price is $4,500 for the entire build. Right now we're running it at a special price of $2,500 — that's a one-time fee."*
 
 **After stating price, immediately ground it:**
-- Recurring costs are just Sales Navigator (~$100/month) + software ($99/month)
-- Effective cost per lead is ~$200/month ongoing
+- Recurring costs: Sales Navigator (~$100/month) + software ($99/month)
+- Effective cost per lead: ~$200/month ongoing
 - Frame against the alternative: *"Instead of $4,000/month agency fees, you own the whole system."*
 
-**Payment plan:** Always offer it proactively or when cash flow comes up.
-*"I'm happy to divide that into two or three payments. I don't want cash constraints to be an issue — it also makes the working relationship better when people aren't stressed about getting their investment back immediately."*
+**Payment plan — always offer it proactively:**
+> *"I'm happy to divide that into two or three payments. I don't want cash constraints to be an issue — it also makes the working relationship better when people aren't stressed about getting their investment back immediately."*
 
 ---
 
-## Stage 7 — The Close (35–45 min)
+## Stage 7 — The Close *(35–45 min)*
 
 **Goal:** Make next steps crystal clear and frictionless. Don't leave anything ambiguous.
 
 ### Braden's Close
 
-Simple and direct:
-*"Want to move forward with us?"* — then silence.
+> *"Want to move forward with us?"* — then silence.
 
-If yes:
-*"First step is just scheduling your 30-minute onboarding call with Brittany. I'll send you an email right after this with the agreement, an onboarding form, and a short video. Take care of those before the call and we're good to go."*
+If yes: *"First step is just scheduling your 30-minute onboarding call with Brittany. I'll send you an email right after this with the agreement, an onboarding form, and a short video. Take care of those before the call and we're good to go."*
 
 ### Liz's Close
 
-*"In order to get started, I would just schedule your welcome call with your customer success manager. All you need to do before that call is sign your agreement and pay your invoice."*
+> *"In order to get started, I would just schedule your welcome call with your customer success manager. All you need to do before that call is sign your agreement and pay your invoice."*
 
 ### Universal Close Sequence
 
@@ -245,7 +245,7 @@ If yes:
 2. Pull up Brittany/Emily's calendar live on the call
 3. Book the onboarding call before hanging up
 4. Tell them exactly what email is coming and what to do before the call
-5. Agreement + form + (sometimes) a welcome video to watch
+5. Agreement + form + welcome video to watch
 
 **Never leave the call without a scheduled next step.**
 
@@ -258,14 +258,14 @@ If yes:
 
 ---
 
-## Stage 8 — Post-Close Wrap (last 5 min)
+## Stage 8 — Post-Close Wrap *(last 5 min)*
 
 **Goal:** Reinforce the decision, keep rapport warm, leave them excited.
 
 - Return to personal conversation if natural
-- Mention the Wednesday office hours (2 PM ET weekly) as an ongoing resource
+- Mention Wednesday office hours (2 PM ET weekly) as an ongoing resource
 - Mention that all sessions are recorded and sent to them
-- If appropriate, mention the referral incentive: *"During the first 30 days, if you introduce us to three people via email, we'll comp your next month of software."*
+- Referral incentive: *"During the first 30 days, if you introduce us to three people via email, we'll comp your next month of software."*
 - Confirm they know to reach out with any questions before the welcome call
 
 ---
