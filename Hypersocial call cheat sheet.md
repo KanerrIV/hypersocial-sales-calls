@@ -2,22 +2,26 @@
 
 ---
 
-## BEFORE THE CALL
+## Before the Call
+
 - Know their name, company, and how they found you (ad, LinkedIn, referral?)
 - Note any ICP clues from the booking form
 - Have Brittany's calendar open and ready to book before you hang up
 
 ---
 
-## STAGE 1 — RAPPORT (0–3 min)
+## Stage 1 — Rapport *(0–3 min)*
+
 Comment on location, weather, something visible. Share something about yourself first.
+
 > *"Where are you calling in from?"* / *"How's the weather over there?"*
 
-Don't skip this. They need to like you before they'll trust you.
+**Don't skip this. They need to like you before they'll trust you.**
 
 ---
 
-## STAGE 2 — DISCOVERY OPENER
+## Stage 2 — Discovery Opener
+
 **Never pitch first. Always open with a question.**
 
 Pick one:
@@ -27,7 +31,7 @@ Pick one:
 
 **Then shut up and listen.**
 
-### Listen for:
+### Listen For:
 - [ ] Current lead gen methods (referrals? networking? cold email? events?)
 - [ ] Why it's not enough (unpredictable? time? not scaling?)
 - [ ] Capacity situation (solo? team? too busy to prospect?)
@@ -35,7 +39,7 @@ Pick one:
 - [ ] Multiple ICPs (TAB + StratPro, Vistage + advisory, clients + referral partners)
 - [ ] Prior LinkedIn tool experience?
 
-### Follow-up digs:
+### Follow-Up Digs:
 - *"How many new clients would move the needle for you monthly?"*
 - *"Is that B2B or B2C?"*
 - *"Tell me about your average customer."*
@@ -44,7 +48,8 @@ Pick one:
 
 ---
 
-## STAGE 3 — CREDIBILITY BRIDGE
+## Stage 3 — Credibility Bridge
+
 Before pitching, connect their world to yours.
 
 - Worked with 65+ TAB owners / Vistage chairs / coaches / consultants
@@ -57,9 +62,9 @@ Before pitching, connect their world to yours.
 
 ---
 
-## STAGE 4 — THE PITCH
+## Stage 4 — The Pitch
 
-### The 30-Day Build includes:
+### The 30-Day Build Includes:
 - [ ] LinkedIn profile audit + optimization
 - [ ] Sales Navigator search setup (granular targeting — location, industry, headcount, role)
 - [ ] Human-written outreach messaging (no AI — get their approval before anything goes live)
@@ -69,6 +74,7 @@ Before pitching, connect their world to yours.
 - [ ] Campaign live within **7 days** of first call
 
 ### The Numbers Funnel:
+
 | Step | Number |
 |------|--------|
 | Connection requests/week | 200 |
@@ -85,6 +91,7 @@ Before pitching, connect their world to yours.
   - $1,997 = full management (outbound, inbox, content, leads)
 
 ### Key Lines to Know:
+
 **LinkedIn vs. cold email:**
 > *"Cold email is I have to get your attention now or never. On LinkedIn you can showcase your work and results — when you reach out, people go view your profile and see all that social proof."*
 
@@ -105,7 +112,7 @@ Before pitching, connect their world to yours.
 
 ---
 
-## STAGE 5 — COMMON OBJECTIONS
+## Stage 5 — Common Objections
 
 | Objection | Response |
 |-----------|----------|
@@ -120,7 +127,7 @@ Before pitching, connect their world to yours.
 
 ---
 
-## STAGE 6 — PRICING
+## Stage 6 — Pricing
 
 **State it flat and confident:**
 > *"Just a one-time fee of $2,500."*
@@ -138,7 +145,7 @@ Or anchor high first:
 
 ---
 
-## STAGE 7 — THE CLOSE
+## Stage 7 — The Close
 
 **Direct ask:**
 > *"Want to move forward with us?"* → silence.
@@ -155,7 +162,7 @@ Or anchor high first:
 
 ---
 
-## STAGE 8 — POST-CLOSE WRAP
+## Stage 8 — Post-Close Wrap
 
 - Wednesday office hours — 2 PM ET weekly, open to all clients
 - All sessions recorded and sent to them
@@ -164,7 +171,8 @@ Or anchor high first:
 
 ---
 
-## WHAT THE ONBOARDING EMAIL CONTAINS
+## What the Onboarding Email Contains
+
 - Intro to account manager (Brittany or Emily)
 - Agreement link
 - Onboarding form
@@ -173,7 +181,8 @@ Or anchor high first:
 
 ---
 
-## QUICK REMINDERS
+## Quick Reminders
+
 - They need to like you before they trust you — don't rush rapport
 - Reflect their pain back before you pitch
 - Questions are buying signals — answer them fully, never deflect
